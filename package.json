@@ -1,0 +1,28 @@
+{
+  "name": "leoandnire",
+  "version": "1.0.0",
+  "description": "Leo & Nire Wedding Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve public",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5290charlie/leoandnire.git"
+  },
+  "keywords": [
+    "leo",
+    "nire",
+    "wedding"
+  ],
+  "author": "Charlie McClung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/5290charlie/leoandnire/issues"
+  },
+  "homepage": "https://github.com/5290charlie/leoandnire#readme",
+  "devDependencies": {
+    "serve": "^13.0.2"
+  }
+}
