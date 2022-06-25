@@ -2,22 +2,22 @@
 #
 
 # Site settings
-title: "Leo + Nire"
+title: "Leo + Niré"
 description: |
     Denver, Colorado
 
-    July 23, 2022
-owner: Matt Menzenski # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
-email: matt.menzenski@gmail.com
+    July 30, 2022
+owner: Brother Boss Man # or company name
+first_published: 2022 # if migrating another site, the year of your first publish
+email: leomcclung5290@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://leoandnire.com" # the base hostname & protocol for your site
 
 google_analytics: UA-47395716-3
 
 social:
   #twitter: https://twitter.com/menzenski
-  github: https://github.com/menzenski/wedding-site
+  # github: https://github.com/menzenski/wedding-site
   #linkedin-square: https://linkedin.com/in/<username>
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
