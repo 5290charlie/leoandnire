@@ -1,4 +1,4 @@
-FROM ruby:2.7.6
+FROM ruby:2.5.8
 
 ENV BASE_DIR /site
 
