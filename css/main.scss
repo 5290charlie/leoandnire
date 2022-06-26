@@ -241,7 +241,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			margin: 0 0 (_size(element-margin) * 1.75) 0;
 
 			img.center {
-				max-width: 800px;
+				max-width: 90%;
 				margin: 0 auto;
 			}
 
