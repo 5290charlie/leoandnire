@@ -1,7 +1,19 @@
 ---
-layout: page
-title: Stream
-subtitle: Join our live stream here on July 30, 2022
+layout: redirect
+title: Redirecting to Stream
 ---
-  <h3>Information</h3>
-  <p>Check back here on July 30, 2022 for information on how to access our wedding live stream!</p>
+<article id="main">
+  <header>
+    <h2>Redirecting to Stream</h2>
+    <p>You are being redirected to: <a href="https://stream.leoandnire.com">stream.leoandnire.com</a> <span class="muted">[<span id="timer">10</span>]</span></p>
+  </header>
+</article>
+<script>
+  (function () {
+    var timer = 10;
+
+    setInterval(function() {
+      if (timer > 0) $('#timer').text(--timer);
+    }, 1000);
+  })();
+</script>
