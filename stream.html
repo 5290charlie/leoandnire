@@ -1,19 +1,9 @@
 ---
-layout: redirect
-title: Redirecting to Stream
+layout: page
+title: Wedding Video
 ---
 <article id="main">
-  <header>
-    <h2>Redirecting to Stream</h2>
-    <p>You are being redirected to: <a href="https://stream.leoandnire.com">stream.leoandnire.com</a> <span class="muted">[<span id="timer">10</span>]</span></p>
-  </header>
+  <div class="video-wrapper">
+    <iframe class="video" src="https://www.youtube.com/embed/J_1r0oTCX3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 </article>
-<script>
-  (function () {
-    var timer = 10;
-
-    setInterval(function() {
-      if (timer > 0) $('#timer').text(--timer);
-    }, 1000);
-  })();
-</script>
